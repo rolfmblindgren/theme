@@ -274,8 +274,8 @@ input,
 select,
 textarea {
 	color: #222;
-	font-family: Lora, serif;
-	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
 	line-height: 1.5;
 }
 h1,
